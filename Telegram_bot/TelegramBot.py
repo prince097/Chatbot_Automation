@@ -11,7 +11,7 @@ bot = telegram.Bot(token='5923635818:AAFsDcVUx60nuzx6wHiDUJzst5F0xbwpdB0') #Repl
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
-updater = Updater(token='5923635818:AAFsDcVUx60nuzx6wHiDUJzst5F0xbwpdB0', use_context=True) #Replace TOKEN with your token string
+updater = Updater(token='6952728516:AAFqRRRjLsfyJVBd4maK1s_lTPFUmkbJYsQ', use_context=True) #Replace TOKEN with your token string
 dispatcher = updater.dispatcher
 
 
